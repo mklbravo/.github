@@ -1,6 +1,6 @@
 ### :construction: Describe the changes made by this PR
 
-- [x]
+- [x] 
 
 ### :axe: Breaking changes
 
@@ -10,11 +10,10 @@
 ### :bulb: Additional Information
 
 >[!NOTE]
->
+> Add additional information to made changes
 
 ### :link: References
 
 Follows #.
 Related to #.
 Fixes #.
-
